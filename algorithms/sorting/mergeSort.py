@@ -41,7 +41,6 @@ def merge(arr, l, m, r):
 
 
 def merge_sort(arr, l, r):
-
     if l < r:
         m = (l + (r - 1)) // 2
 
