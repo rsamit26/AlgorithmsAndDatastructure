@@ -76,4 +76,8 @@ pip-selfcheck.json
 
 .idea
 .gitignore
+<<<<<<< HEAD
 .idea/vcs.xml
+=======
+
+>>>>>>> dev
