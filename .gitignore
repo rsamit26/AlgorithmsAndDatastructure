@@ -75,3 +75,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 .idea
+.gitignore
+.idea/vcs.xml
