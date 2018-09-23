@@ -1,3 +1,15 @@
+"""
+Linked list and some basic operations ::
+    0. create a singly linked list
+    1. add none at beginning
+    2. add node at end
+    3. add node at any position
+    4. delete node by value
+
+"""
+
+
+
 class Node:
     def __init__(self, v):
         self.val = v
@@ -66,6 +78,8 @@ class ListNode:
             return
 
         prev.next = head.next
+
+
 
 
 """
